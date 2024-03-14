@@ -1,0 +1,17 @@
+{
+    "app_title": "My App",
+    "registration": {
+      "name": "Name",
+      "surname": "Surname",
+      "email": "Email",
+      "phone_number": "Phone Number",
+      "password": "Password",
+      "register_button": "Register"
+    },
+    "bottom_navigation": {
+      "home": "Home",
+      "search": "Search",
+      "profile": "Profile"
+    }
+  }
+  

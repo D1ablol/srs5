@@ -1,0 +1,17 @@
+{
+    "app_title": "Мое приложение",
+    "registration": {
+      "name": "Имя",
+      "surname": "Фамилия",
+      "email": "Электронная почта",
+      "phone_number": "Номер телефона",
+      "password": "Пароль",
+      "register_button": "Зарегистрироваться"
+    },
+    "bottom_navigation": {
+      "home": "Главная",
+      "search": "Поиск",
+      "profile": "Профиль"
+    }
+  }
+  

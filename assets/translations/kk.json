@@ -1,0 +1,17 @@
+{
+  "app_title": "Менің қолданбам",
+  "registration": {
+    "name": "Аты",
+    "surname": "Тегі",
+    "email": "Электрондық пошта",
+    "phone_number": "Телефон нөмірі",
+    "password": "Құпия сөз",
+    "register_button": "Тіркеу"
+  },
+  "bottom_navigation": {
+    "home": "Басты бет",
+    "search": "Іздеу",
+    "profile": "Профиль"
+  },
+  "Kazakh": "Қазақ тілі" 
+}
